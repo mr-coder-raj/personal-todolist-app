@@ -1,5 +1,5 @@
 # 📝 Personal To-Do List App
-![App Screenshot](./screenshots/screenshot.png)
+![App Screenshot](./todo.png)
 
 A minimalist and efficient personal to-do list application built with **React** and **Vite**. It helps users organize daily tasks with a clean, user-friendly interface.
 
